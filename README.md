@@ -1,2 +1,2 @@
-# learn_python
-learn python, data structure and algorithm
+# Data structures and algorithms in python
+Learn data structure and algorithm in python
