@@ -12,7 +12,7 @@ class EmptyException(Exception):
     pass
 
 class ArrayStack:
-    """LIFO stack implemention using a python list as underlying storage
+    """LIFO stack implementation using a python list as underlying storage
     """
 
     def __init__(self):
